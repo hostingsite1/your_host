@@ -1,0 +1,65 @@
+body
+{
+    background-image: url(wall.jpg);
+    background-size: cover;
+    text-align: center;
+    font-size:large;
+    color: black;
+}
+form
+{
+  margin-top: 100px;
+  font-size: 30px;
+  
+
+}
+input
+{
+    margin: 20px;
+    height: 40px;
+    width: 400px;
+    
+}
+span
+{
+    text-shadow: 20px;
+    font-size: 70px;
+    color: #355269;
+   right: 547px;
+   font-family:Dyuthi;
+  
+
+}
+img
+{
+    height: 40px;
+    width: 40px;
+    margin: 30px;
+}
+#singup
+{
+    text-align: right;
+    margin-right: 30px;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #355269;
+    
+}
+a
+{
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,90 @@
+#hedaer{
+    background-color: #0c1722;
+    height: 50px; 
+    color: white;
+    
+   
+}
+#home{
+    height: 20px;
+    width: auto;
+    background-color: #232d35;
+}
+#upshop
+{
+position: absolute;
+left: 50px;
+
+
+}
+#login
+{
+    position: absolute;
+    right: 0px;
+    top: 10px;
+}
+form
+{
+    position: absolute;
+    top: 14px;
+    right: 70px;
+    
+    
+}
+#sae
+{
+    position: absolute;
+    right: 72px;
+    top: 15px;
+}
+#co
+{
+   position: absolute;
+   left: 50px;
+   overflow: scroll;
+   height: 20px;
+}
+a
+{  
+    text-align: left;
+    color: white;
+    size: 40px;
+    margin: 25px;
+    text-decoration: none;
+     
+
+    
+}
+body{
+    padding: 0%;margin: 0%; 
+    background :url(photos/wall.jpg);
+    background-size:cover;
+} 
+#content
+{
+height: auto;
+width: auto;
+overflow: auto;
+margin: 60px;
+
+}
+#footer
+{
+    
+    padding: 0%;
+    background-color: #232d35;
+    text-align: center;
+    color: bisque;
+    height: 40px;
+}
+#content a
+{
+    margin: 0%;
+    padding: 0%;
+}
+#team
+{
+    text-align: center;
+   
+}
+
